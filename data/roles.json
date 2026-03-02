@@ -1,0 +1,6 @@
+{
+  "Data Scientist": {
+    "skills": ["Python", "Pandas", "NumPy", "Machine Learning", "SQL", "Statistics"],
+    "description": "Works with data to build intelligent models."
+  }
+}
